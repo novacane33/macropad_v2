@@ -1,5 +1,5 @@
 # macropad_v2
-***Changes req for v3***
+***Changes req for v3:***
 Optimise PCB space,
 Optimise switch spacing,
 Add mounting holes to secure board in case
